@@ -88,3 +88,14 @@ font-family: "Montserrat-Bold";
   position:absolute;
   right: 30%;
 }
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position:relative;
+}
+
+.feature-box {
+  text-align: center;
+  padding:5%;
+}

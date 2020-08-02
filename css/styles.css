@@ -99,3 +99,19 @@ font-family: "Montserrat-Bold";
   text-align: center;
   padding:5%;
 }
+
+#testimonials {
+  text-align: center;
+  background-colour:#ef8172;
+  color:#fff;
+}
+
+.testimonial-image {
+  width : 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}

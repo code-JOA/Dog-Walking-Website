@@ -20,27 +20,3 @@
 
 
 ![](images/wireframe6b.png)
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```

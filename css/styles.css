@@ -48,9 +48,11 @@ h1, h2,h3,h4,h5,h6 {
 
 #title {
   background-color: #ff4c68;
-  color: #000; # black;
+  /* color: #000; # black; */
   color: #fff;
+  text-align: left;
 }
+
 
 
 .icon {
@@ -63,7 +65,7 @@ h1, h2,h3,h4,h5,h6 {
 }
 
 .container-fluid {
-  padding: 3% 15% 7%;
+  padding: 7% 15%;
 }
 
 
@@ -113,7 +115,7 @@ h1, h2,h3,h4,h5,h6 {
 
 /* features-sections */
 #features {
-  padding:7% 15%;
+  /* padding: 7% 15%; */
   background-color: #fff;
   position:relative;
   /* z-index:1; */
@@ -132,14 +134,14 @@ font-size: 1.5;
 
 #testimonials {
   /* padding : 7% 15%; */
-  text-align: center;
+  /* text-align: center; */
   /* background-color: #ef1872 */
   background-color: #ef8172;
   color: #fff;
 }
 
 .testimonial-text {
-  font-size:3rem;
+  font-size: 3rem;
   line-height: 1.5;
 }
 
@@ -168,10 +170,10 @@ font-size: 1.5;
 
 }
 
-.carousel-item {
+/* .carousel-item {
   padding: 7% 15%;
 
-}
+} */
 
 /* #pricing section */
 #pricing {
@@ -191,7 +193,7 @@ font-size: 1.5;
 
 @media (max-width: 1028px) {
   #title {
-    text-align: centre;
+    text-align: center;
   }
 
   .title-image {
@@ -203,7 +205,7 @@ font-size: 1.5;
 #cta {
   background-color: #ef1872;
   color: #fff;
-  padding: 7% 15%;
+  /* padding: 7% 15%; */
   /* text-align: center; */
 
   }
@@ -216,7 +218,7 @@ font-size: 1.5;
 
 /* # footer section */
 #footer {
-  padding: 7% 15%;
+  /* padding: 7% 15%; */
   text-align: center;
 }
 

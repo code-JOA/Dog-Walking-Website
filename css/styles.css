@@ -50,6 +50,16 @@ h1, h2,h3,h4,h5,h6 {
   padding: 7% 15%;
 }
 
+/* # section */
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+
+}
 
 
 .icon {
@@ -104,11 +114,11 @@ h1, h2,h3,h4,h5,h6 {
   background-color: #ff4c68;
   /* color: #000; # black; */
   color: #fff;
-  text-align: left;
 }
 
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 .title-image {
@@ -121,7 +131,7 @@ h1, h2,h3,h4,h5,h6 {
 /* features-sections */
 #features {
   /* padding: 7% 15%; */
-  background-color: #fff;
+  /* background-color: #fff; */
   position:relative;
   /* z-index:1; */
 }
@@ -142,7 +152,7 @@ font-size: 1.5;
   /* text-align: center; */
   /* background-color: #ef1872 */
   background-color: #ef8172;
-  color: #fff;
+  /* color: #fff; */
 }
 
 .testimonial-text {
@@ -207,13 +217,13 @@ font-size: 1.5;
   }
 }
 
-#cta {
+/* #cta {
   background-color: #ef1872;
   color: #fff;
   /* padding: 7% 15%; */
   /* text-align: center; */
 
-  }
+  } */
 
 /* .cta-heading {
   font-family: "Montserrat-Black";
